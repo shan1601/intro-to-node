@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "22.6.0",
+  "description": "simple web app",
+  "main": "fileread.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shan1601/intro-to-node.git"
+  },
+  "author": "Shantanu Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shan1601/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/shan1601/intro-to-node#readme"
+}
